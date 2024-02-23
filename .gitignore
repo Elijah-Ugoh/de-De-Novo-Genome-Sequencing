@@ -1,3 +1,6 @@
 data/
-busco_28781.log
 busco_downloads/
+1_fastqc/
+2_denovo_assembly/
+3_quast/
+4_BUSCO/
